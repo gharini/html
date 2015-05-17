@@ -1,0 +1,13 @@
+<html>
+<head>
+<style>
+body{background-color:blue;}
+h1{font-color:red;text-align:center;text-size:300%;}
+p{font-color:green;font-style:bold;text-size:200%;}
+</style>
+</head>
+<body>
+<h1>A Colorfull Butterfly</h1>
+<p> i love butterflies colorfull butterflies are most beautiful</p>
+</body>
+</html>
